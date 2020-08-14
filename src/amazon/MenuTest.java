@@ -65,6 +65,11 @@ public class MenuTest {
 		
 		System.out.println("My new changes in commit");
 		System.out.println("My new changes in commit2");
+		
+		System.out.println("My new changes in commit3");
+		System.out.println("My new changes in commit4");
+		System.out.println("My new changes in commit5");
+		
 
 	}
 
