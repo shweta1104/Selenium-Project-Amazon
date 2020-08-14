@@ -62,6 +62,9 @@ public class MenuTest {
 		else {
 			System.out.println("The webelement is either hidden or disabled.");
 		}
+		
+		System.out.println("My new changes in commit");
+		System.out.println("My new changes in commit2");
 
 	}
 
